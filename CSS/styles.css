@@ -1,0 +1,217 @@
+                                            .topcontainer {
+                                                background-color: #e4f5f9;
+                                                margin: 0%;
+                                                border-radius: 30%;
+                                            }
+                                            
+                                            body {
+                                                margin: 0%;
+                                                text-align: center;
+                                                background-color: lightseagreen;
+                                            }
+                                            
+                                            h1 {
+                                                padding-top: 150px;
+                                                margin: 0 auto 0 auto;
+                                                font-size: 5.625rem;
+                                                font-family: 'Caveat', cursive;
+                                                color: #66BFBF;
+                                            }
+                                            
+                                            h2 {
+                                                font-family: 'Josefin Slab', serif;
+                                                font-size: 2.5rem;
+                                                color: lightgreen;
+                                            }
+                                            
+                                            h3 {
+                                                font-family: 'Montserrat Alternates', sans-serif;
+                                                font-size: 25px;
+                                                margin: auto;
+                                                color: lightpink;
+                                            }
+                                            
+                                            .be {
+                                                text-decoration: line-through;
+                                                font-size: 55px;
+                                            }
+                                            
+                                            .para-1 {
+                                                font-size: 50px;
+                                                font-family: 'Caveat', cursive;
+                                                color: #66BFBF;
+                                                font-weight: normal;
+                                                line-height: 2;
+                                            }
+                                            
+                                            .mountain {
+                                                position: relative;
+                                            }
+                                            
+                                            .cloud {
+                                                display: inline-block;
+                                                margin: auto;
+                                                position: absolute;
+                                                left: 470px;
+                                                margin-top: 70px;
+                                            }
+                                            
+                                            .bottom-cloud {
+                                                position: absolute;
+                                                margin: auto;
+                                                right: 450px;
+                                            }
+                                            
+                                            .Goku {
+                                                width: 200px;
+                                                height: 200px;
+                                                border-radius: 30%;
+                                                margin-top: 30px;
+                                            }
+                                            
+                                            div p {
+                                                font-size: 25px;
+                                                font-family: Arial, Helvetica, sans-serif;
+                                            }
+                                            
+                                            .gaming {
+                                                width: 200px;
+                                                height: 200px;
+                                                border-radius: 30%;
+                                                float: left;
+                                                margin-right: 50px;
+                                            }
+                                            
+                                            .typing {
+                                                width: 200px;
+                                                height: 200px;
+                                                border-radius: 30%;
+                                                float: right;
+                                                padding-top: 200px;
+                                                margin-left: 50px;
+                                                position: relative;
+                                            }
+                                            
+                                            .skillsh2 {
+                                                padding-top: 100px;
+                                                font-size: 50px;
+                                            }
+                                            
+                                            .typingh3 {
+                                                padding-top: 200px;
+                                                margin-left: 600px;
+                                                font-size: 40px;
+                                            }
+                                            
+                                            .btn {
+                                                background: #3D94F6;
+                                                background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+                                                background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+                                                background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+                                                background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+                                                background-image: linear-gradient(to bottom, #3D94F6, #1E62D0);
+                                                -webkit-border-radius: 20px;
+                                                -moz-border-radius: 20px;
+                                                border-radius: 20px;
+                                                color: #FFFFFF;
+                                                font-family: Open Sans;
+                                                font-size: 30px;
+                                                font-weight: 40;
+                                                padding: 10px;
+                                                box-shadow: 1px 1px 20px 0px #000000;
+                                                -webkit-box-shadow: 1px 1px 20px 0px #000000;
+                                                -moz-box-shadow: 1px 1px 20px 0px #000000;
+                                                text-shadow: 1px 1px 20px #000000;
+                                                border: solid #337FED 1px;
+                                                text-decoration: none;
+                                                display: inline-block;
+                                                cursor: pointer;
+                                                text-align: center;
+                                            }
+                                            
+                                            a:hover {
+                                                border: solid #337FED 1px;
+                                                background: #1E62D0;
+                                                background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+                                                background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+                                                background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+                                                background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+                                                background-image: linear-gradient(to bottom, #1E62D0, #3D94F6);
+                                                -webkit-border-radius: 20px;
+                                                -moz-border-radius: 20px;
+                                                border-radius: 20px;
+                                                text-decoration: none;
+                                            }
+                                            
+                                            .footer-link {
+                                                font-size: 25px;
+                                            }
+                                            
+                                            .middle-container {
+                                                background-color: slateblue;
+                                                border-radius: 30%;
+                                            }
+                                            
+                                            .gamerlikeme {
+                                                color: lightgreen;
+                                            }
+                                            
+                                            .xD {
+                                                line-height: 4;
+                                            }
+                                            
+                                            hr {
+                                                width: 4%;
+                                                border: dotted lightgray 6px;
+                                                border-bottom: none;
+                                                width: 4%;
+                                            }
+                                            
+                                            .skill-row {
+                                                text-align: left;
+                                                margin-left: 150px;
+                                            }
+                                            
+                                            .skill-row-2 {
+                                                margin-right: 260px;
+                                                margin-left: 200px;
+                                            }
+                                            
+                                            .h3gaming {
+                                                line-height: 2;
+                                                font-size: 40px;
+                                            }
+                                            
+                                            .touch {
+                                                padding-top: 150px;
+                                            }
+                                            
+                                            .bchr {
+                                                margin-top: 150px;
+                                            }
+                                            
+                                            .text-typing {
+                                                position: relative;
+                                            }
+                                            
+                                            .links {
+                                                margin: auto;
+                                                background-color: yellow;
+                                            }
+                                            
+                                            a {
+                                                color: #3D94F6;
+                                                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                                                margin: 10px 20px;
+                                                text-decoration: aqua;
+                                            }
+                                            
+                                            a:hover {
+                                                color: white;
+                                            }
+                                            
+                                            .bottom-container {
+                                                background-color: lightyellow;
+                                                height: 100px;
+                                                margin: auto;
+                                            }
